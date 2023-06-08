@@ -2,7 +2,7 @@
 title: "Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic
 Fluid Layer on a Liquid Substrate"
 collection: publications
-permalink: /publication/2009-10-01-paper-Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic
+permalink: /publication/2022-10-01-paper-Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic
 Fluid Layer on a Liquid Substrate-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10-01
