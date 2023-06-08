@@ -14,7 +14,7 @@ This is Yongchao Zhang (Caron), a master's student from [College of Engineering]
 You can find my CV here: [Caron Zhang's Curriculum Viate].
 
 Education
-------
+======
 Master of Engineering, Shantou University (2021-Now)
 Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University (2015-2019)
 
