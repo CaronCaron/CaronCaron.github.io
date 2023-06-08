@@ -17,14 +17,18 @@ You can find my CV here: [Caron Zhang's Curriculum Viate].
 Education
 ======
 Master of Engineering, Shantou University (2021-Now)
+
 Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University (2015-2019)
 
 Research Interests
 ======
 
 Lattice Boltzmann method and Simplified lattice Boltzmann method (SLBM)
+
 Magnetohydrodynamics and Rosensweig Insitibility
+
 Magnetic fluid multiphase flow 
+
 Parallel computing algorithms
 
 Recent and Forthcoming Meetings
