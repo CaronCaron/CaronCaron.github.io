@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yongchao Zhang \n (Caron)"
   avatar           : "世良真纯.jpg"
-  bio              : "Work for Life, rather reverse"
-  location         : "Location"
-  employer         :
+  bio              : "Work for life, not reverse"
+  location         : #"Location"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  "21yczhang@stu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
