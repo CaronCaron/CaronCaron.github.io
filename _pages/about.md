@@ -8,23 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master's student from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). My research interest includes computational fluid dynamics, multiphase flow, Lattice Boltzmann Method and Magnetic Fluid Dynamics.
+Hey, welcome to my page! The page is building now, let's looking forward to it together~
+This is Yongchao Zhang (Caron), a master's student from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). My research interest includes computational fluid dynamics, multiphase flow, Lattice Boltzmann Method and Magnetic Fluid Dynamics.
 
-You can find my CV here:[Caron Zhang's Curriculum Viate].
+You can find my CV here: [Caron Zhang's Curriculum Viate].
 
-
-Interests
-======
-computational fluid dynamics
-multiphase flow, Lattice Boltzmann Method and Magnetic Fluid Dynamics
-
----
 Education
 ------
 Master of Engineering, Shantou University (2021-Now)
+Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University (2015-2019)
 
-Getting started
+Research Interests
 ======
+
+Lattice Boltzmann method and Simplified lattice Boltzmann method (SLBM)
+Magnetohydrodynamics and Rosensweig Insitibility
+Magnetic fluid multiphase flow 
+Parallel computing algorithms
+
+Recent and Forthcoming Meetings
+======
+8 to 12 August 2023, The 17th Asian Congress of Fluid Mechanics(ACFM2023) at Beijing, China
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
