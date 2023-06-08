@@ -1,13 +1,15 @@
 # main links links
 main:
+
+  - title: "Research"
+      url: /research/    
+
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
-    url: /research/    
-
-  - title: "Daily"
-    url: /daily/    
+  
+  #- title: "Daily"
+   # url: /daily/    
     
   #- title: "Portfolio"
    # url: /portfolio/
@@ -15,8 +17,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-   # url: /cv/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
     
-  #- title: "Guide"
-   # url: /markdown/
+  - title: "Contact"
+    url: /contact/
