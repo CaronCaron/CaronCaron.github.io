@@ -30,7 +30,7 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
-staticman:
+staticman                :
   allowedFields          : ['Caron', '21yczhang@stu.edu.cn', 'url', 'message'] #['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
@@ -39,26 +39,26 @@ staticman:
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
-  transforms:
+  transforms             :
     email                : "md5"
-  generatedFields:
-    date:
+  generatedFields        :
+    date                 :
       type               : "date"
-      options:
+      options            :
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
+atom_feed                :
   path                   : # blank (default) uses feed.xml
 
-# 2-SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
+# 2-SEO Related             #增加了注释，但其实这部分没什么用
+google_site_verification : # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : # get bing_site_verification from https://www.bing.com/webmasters/about
+alexa_site_verification  : 
 yandex_site_verification :
 
 # 3-Social Sharing
 twitter:
-  username               : &twitter
-  facebook                :
+  username               : # &twitter
+  facebook               :
   username               :
   app_id                 :
   publisher              :
@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 
 # 4-Analytics
@@ -104,13 +104,13 @@ author:
   lastfm           :
   linkedin         :
   dblp             :  #  这一行是自行添加的
-  orcid            : #"http://orcid.org/yourorcidurl"
+  #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  #twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
