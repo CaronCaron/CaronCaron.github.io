@@ -5,17 +5,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
+# 1-Site Settings
 locale                   : "en-US"
-title                    : "Yongchao Zhang (Caron)"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Yongchao Zhang (Caron)"
 description              : &description "this is a personal description"
 url                      : https://caroncaron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CaronCaron/CaronCaron.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"  #预告片图像
+breadcrumbs              : false # true, false (default)  # 面包屑设置
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -49,13 +49,13 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# SEO Related
+# 2-SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
+# 3-Social Sharing
 twitter:
   username               : &twitter
   facebook                :
@@ -71,14 +71,14 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
+# 4-Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
-# Site Author
+# 5-Site Author              不需要怎么改
 author:
   name             : "Yongchao Zhang \n (Caron)"
   avatar           : "世良真纯.jpg"
@@ -103,13 +103,14 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  dblp             :  #  这一行是自行添加的
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -117,18 +118,21 @@ author:
   wikipedia        :
 
 
-# Reading Files
+# 6-Reading Files   ##需要读取文件的设置     注释的部分不一样，其他应该不用改
 include:
   - .htaccess
   - _pages
   - files
 exclude:
+  #- docs
+  #- google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  #- .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -153,15 +157,15 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
+# 7-Conversion   #保留不用改
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "\n\n"    #摘录
 incremental: false
 
 
-# Markdown Processing
+# 8-Markdown Processing  #解析器  保留不用改
 kramdown:
   input: GFM
   hard_wrap: false
@@ -173,35 +177,35 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# 9-Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
+    permalink: /:collection/:path/ 
+  cv:
     output: true
-    permalink: /:collection/:path/
-  talks:
+    permalink: /:cv/:path/
+  miscellaneous:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:miscellaneous/:path/
 
 
-# Defaults
+# 10-Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
   # _pages
   - scope:
       path: ""
@@ -209,56 +213,56 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false #true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#   # _teaching
+#   - scope:
+#       path: ""
+#       type: teaching
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+#   # _publications
+#   - scope:
+#       path: ""
+#       type: publications
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+#   # _portfolio
+#   - scope:
+#       path: ""
+#       type: portfolio
+#     values:
+#       layout: single
+#       author_profile: false #true
+#       share: true
+#       comment: true
+#   # _talks
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: true
 
-# Sass/SCSS
+# 11-Sass/SCSS  #保留不用修改
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
-permalink: /:categories/:title/
+# 12-Outputting  
+permalink: /:categories/:title/    #永久链接，始终指向同一网页，持久性标识符
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones  #时钟
 
 
-# Plugins
+# 13-Plugins   #保留不用修改
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -271,7 +275,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jemoji       #保留不用修改
 
 
 # Archives
