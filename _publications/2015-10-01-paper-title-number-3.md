@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 3"
+title: "A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field
+for the evolution of spike structures in ferrofluids"
 collection: publications
 permalink: /publication/2022-10-01-paper-A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field
 for the evolution of spike structures in ferrofluids-number-3
