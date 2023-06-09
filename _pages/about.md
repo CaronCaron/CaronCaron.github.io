@@ -42,6 +42,8 @@ Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University        201
 Honors and Awards
 ======
 • China Postgraduate Mathematical Contest in Modeling (Second Prize)
+
 • China Undergraduate Mathematical Contest in Modeling (Third Prize)
+
 • Shantou University Academic Scholarship (First Prize)
 
