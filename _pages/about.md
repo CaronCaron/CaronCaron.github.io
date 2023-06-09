@@ -1,5 +1,5 @@
 ---
-permalink: /              # 此页面的网址，这里网址是/,表示将此页面作为主页
+permalink: /About me/             # 此页面的网址，这里网址是/,表示将此页面作为主页
 title: "About me"          # 这个页面的标题,Biaography表示这个页面包含有关作者本人的生平事迹。
 excerpt: "About me"         #  关于这个页面的间断概述，About me 用于在网站主页或档案页面的列表视图中显示时提供预览内容
 author_profile: true         # 一个布尔值，表示是否在页面中包含作者个人资料。如果值为true,则会在页面底部显示一个名为作者“Author”的模块，在本案例库中可能指代侧边栏，即sidebar      
