@@ -1,7 +1,7 @@
 ---
 permalink: /              # 此页面的网址，这里网址是/,表示将此页面作为主页
-title: "About me"          #123
-excerpt: "About me"            
+title: "About me"          # 这个页面的标题,Biaography表示这个页面包含有关作者本人的生平事迹。
+excerpt: "About me"         #  关于这个页面的间断概述，About me 用于在网站主页或档案页面的列表视图中显示时提供预览内容
 author_profile: true                 
 redirect_from:         
   - /about/
