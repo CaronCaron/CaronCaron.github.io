@@ -27,7 +27,7 @@ Zhang Y, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deform
 Niu X, Khan A, Zhang Y. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference.<br>
 [DOI:2022:1. DOI:10.26914/c.cnkihy.2022.068157]<br>
 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 • Research of lubrication/sealing application of magnetic fluid (2021-2022)
 ======
 Co-authors: Xiaodong Niu; Xiangfan Li, Yaping Wang, Mingfu Wen
@@ -41,7 +41,7 @@ and is still an alternative approach for lubrication and sealing with great pote
 Related publications:
 [Zhang Y, Li X, Wang, Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)
 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 • Research of a 3D simulation of PEMFC integrated with TED (2018-2019)
 ======
 Co-authors: Qinghe Yao, Trevor Hocksun Kwan
@@ -50,7 +50,7 @@ Co-authors: Qinghe Yao, Trevor Hocksun Kwan
 
 
 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
