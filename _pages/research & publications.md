@@ -25,7 +25,8 @@ Zhang Y, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deform
 [DOI:10.26914/c.cnkihy.2022.068744]<br>
 
 Niu X, Khan A, Zhang Y. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference.<br>
-[DOI:2022:1. DOI:10.26914/c.cnkihy.2022.068157]<br> #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+[DOI:2022:1. DOI:10.26914/c.cnkihy.2022.068157]<br> 
+<!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
 • Research of lubrication/sealing application of magnetic fluid (2021-2022)
 ======
