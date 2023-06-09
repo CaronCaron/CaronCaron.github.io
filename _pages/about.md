@@ -1,6 +1,6 @@
 ---
-permalink: /              
-title: "About me"          '''注释'''
+permalink: /              # 此页面的网址，这里网址是/,表示将此页面作为主页
+title: "About me"          #123
 excerpt: "About me"            
 author_profile: true                 
 redirect_from:         
