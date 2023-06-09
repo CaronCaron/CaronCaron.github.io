@@ -7,7 +7,7 @@
 
 # 1-Site Settings
 locale                   : "en-US"
-title                    : "HomePage"
+title                    : "Overview"
 title_separator          : "-"
 name                     : &name "Yongchao Zhang (Caron)"
 description              : &description "this is a personal description"
