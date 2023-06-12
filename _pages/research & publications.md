@@ -19,9 +19,9 @@ Also, we promoted the multipahse lattice Boltzmann method for conviniently estab
 ---
 <!--#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <font color=#0099ff>color #0099ff</font>
-<font color=red>红色</font>
+<font color=dark blue>
 ### TALKS-The forthcoming 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China (Aug 2023)<br>
-_[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow._<br>
+_[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow._<br></font>
 ### TALKS-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
 *[2] __Zhang Y__, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>
 [DOI:10.26914/c.cnkihy.2022.068744]* <br>
