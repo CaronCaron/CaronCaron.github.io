@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
   
   - title: "Research Interests"
-    url: "/#-Research Interests"
+    url: "/#-research interests"
     
   - title: "Educations"
-    url: "/#-Educations"
+    url: "/#-educations"
     
 #   - title: "Publications"
 #     url: "/#-publications"
 
   - title: "Honors & Awards"
-    url: "/#-Honors & Awards"
+    url: "/#-honors & awards"
 
   - title: "Research & Publications"
     url: /research & publications/   
