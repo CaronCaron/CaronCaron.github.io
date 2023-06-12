@@ -4,8 +4,8 @@ main:
     url: "/#about-me"
   
   - title: "Research Interests"
-    url: "/#-research-interests"
-    
+    url: "/#-research%2Dinterests"
+  
   - title: "Educations"
     url: "/#-educations"
     
