@@ -184,7 +184,7 @@ collections:
 #     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /:research & publications/:path/ 
+    permalink: /:research&publications/:path/ 
   cv:
     output: true
     permalink: /:cv/:path/
@@ -216,7 +216,7 @@ defaults:
   # _research & publications
   - scope:
       path: ""
-      type: research & publications
+      type: research&publications
     values:
       layout: single
       author_profile: true
