@@ -182,9 +182,9 @@ collections:
 #   teaching:
 #     output: true
 #     permalink: /:collection/:path/
-  publications:
+  research & publications:
     output: true
-    permalink: /:collection/:path/ 
+    permalink: /:research & publications/:path/ 
   cv:
     output: true
     permalink: /:cv/:path/
