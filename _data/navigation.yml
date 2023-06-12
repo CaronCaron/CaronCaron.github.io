@@ -7,7 +7,7 @@ main:
     url: "/#interst"
   
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
     
   - title: "Publications"
     url: "/#-publications"
