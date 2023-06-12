@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-   # children:
+    children:
       - title: "Educations"
         url: "/#-educations"
       - title: "Research Interests"
