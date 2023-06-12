@@ -203,10 +203,10 @@ defaults:
       layout: single
       author_profile: true
       
-   # _research & publications
+   # _research and publications
    - scope:
       path: ""
-      type: research & publications
+      type: research and publications
     values:
       layout: single
       author_profile: true
