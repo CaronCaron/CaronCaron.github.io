@@ -13,10 +13,11 @@ main:
         url: "/#-honors-and-awards"
         
   - title: "Research & Publications"
-#     url: /research & publications/    
+    url: /research & publications/    
 
   - title: "Miscellaneous"
     url: /miscellaneous/
+    
      # - title: "News"
   #  url: "/#-news"
 #   - title: "CV"
