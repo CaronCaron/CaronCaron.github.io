@@ -46,7 +46,7 @@ and is still an alternative approach for lubrication and sealing with great pote
 Related publications:
 ---
 [Zhang Y, Li X, Wang, Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)  
-<!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
+<!--#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
 • Research of a 3D simulation of PEMFC integrated with TED (2018-2019)
 ======
