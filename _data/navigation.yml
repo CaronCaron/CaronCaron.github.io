@@ -13,8 +13,11 @@ main:
 #     url: "/#-publications"
 
   - title: "Honors & Awards"
-    url: "/#-honors-&-awards"
-
+    url: "/#-honors-\&-awards"
+  
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+  
   - title: "Research & Publications"
     url: /research & publications/   
 
