@@ -15,7 +15,7 @@ This is Yongchao Zhang (Caron), a master's student from [College of Engineering]
 Also, you can conviniently find informations about my research and publications in the Page of "Research & Publications". 
 
 My CV is available here: [Caron Zhang's Curriculum Viate].
-<a id="research-interests"></a>
+<a id="research%2Dinterests"></a>
 # Research Interests
 Lattice Boltzmann method and simplified lattice Boltzmann method (SLBM)
 
