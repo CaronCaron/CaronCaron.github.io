@@ -7,7 +7,7 @@ author_profile: true
 
 Research —— A numerical simulation of Rosensweig Instability with lattice Boltzmann method 
 ======
-### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu    |Co-author: Adnan Khan         |2022-Now at STU *</font>
+### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu      |Co-author: Adnan Khan      |2022-Now at STU *</font>
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
 It occurs at the interfaces between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. 
 Rosensweig instability usually exhibits spikes along the direction of the magnetic field, while other topological shapes (rupture and soliton) also appear as different magnetic field applied.
@@ -21,7 +21,8 @@ Also, we promoted the multipahse lattice Boltzmann method for conviniently estab
 <!--<font color=#0099ff>color #0099ff</font>-->
 
 ### <font color=CadetBlue> TALKS-The forthcoming 17th Asian Congress of Fluid Mechanics (ACFM 2023) at Beijing, China (Aug 2023)<br>
-_[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow._<br></font>
+<font color=CadetBlue> _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow._<br> </font>
+
 ### TALKS-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
 *[2] __Zhang Y__, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>
 [DOI:10.26914/c.cnkihy.2022.068744]* <br>
