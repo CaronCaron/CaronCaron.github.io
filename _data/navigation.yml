@@ -18,16 +18,16 @@ main:
   - title: "Miscellaneous"
     url: /miscellaneous/
     
-     # - title: "News"
-  #  url: "/#-news"
-#   - title: "CV"
-#     url: /cv/
+
     
   - title: "Contact"
     url: /contact/
  
   
-
+     # - title: "News"
+  #  url: "/#-news"
+#   - title: "CV"
+#     url: /cv/
     
 #   - title: "Research"
 #       url: /research/    
