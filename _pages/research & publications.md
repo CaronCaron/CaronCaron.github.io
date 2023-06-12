@@ -5,8 +5,9 @@ permalink: /research & publications/
 author_profile: true
 ---
 
-• Research of a numerical simulation of Rosensweig Instability with lattice Boltzmann method (2022-2023)
+Research —— a numerical simulation of Rosensweig Instability with lattice Boltzmann method 
 ======
+## 2022-Now,STU
 ## Co-authors: Xiaodong Niu, Adnan Khan
 
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
@@ -33,6 +34,7 @@ _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of fer
   
 • Research of lubrication/sealing application of magnetic fluid (2021-2022)
 ======
+## 2021-2022 at STU
 ## Co-authors: Xiaodong Niu，Xiangfan Li, Yaping Wang, Mingfu Wen
 ---
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
@@ -49,7 +51,9 @@ and is still an alternative approach for lubrication and sealing with great pote
   
 • Research of a 3D simulation of PEMFC integrated with TED (2018-2019)
 ======
-## Co-authors: Qinghe Yao, Trevor Hocksun Kwan
+<font face="Times of New Rome" 
+## 2018-2019 at SYSU
+## Co-authors: Qinghe Yao, Trevor Hocksun Kwan /font>
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
