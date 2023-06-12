@@ -7,7 +7,7 @@ author_profile: true
 
 • Research of a numerical simulation of Rosensweig Instability with lattice Boltzmann method (2022-2023)
 ======
-### Co-authors: Xiaodong Niu, Adnan Khan
+## Co-authors: Xiaodong Niu, Adnan Khan
 
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
 It occurs at the interfaces between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. 
@@ -15,14 +15,14 @@ Rosensweig instability usually exhibits spikes along the direction of the magnet
 The research is interested in inner mechanism of emergence and evolution of Rosensiweig instability in multiphase flow system which is meaningful for providing effective interface control strategies for magnetic fluid applications in lubricaion/sealing, biomedicine, liquid robots and so on. 
 Also, we promoted the multipahse lattice Boltzmann method for conviniently establishing numerical simulation in this work. 
 
-### Related Publications: 
+## Related Publications: 
 ---
 <!--#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <font color=#0099ff>color #0099ff</font>
 <font color=red>红色</font>
-#### TALKS-The forthcoming 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China (Aug 2023)<br>
+### TALKS-The forthcoming 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China (Aug 2023)<br>
 _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow._<br>
-#### TALKS-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
+### TALKS-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
 *[2] __Zhang Y__, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>
 [DOI:10.26914/c.cnkihy.2022.068744]* <br>
 *[3] Niu X, Khan A, __Zhang Y__. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference.<br>
@@ -32,7 +32,7 @@ _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of fer
   
 • Research of lubrication/sealing application of magnetic fluid (2021-2022)
 ======
-### Co-authors: Xiaodong Niu，Xiangfan Li, Yaping Wang, Mingfu Wen
+## Co-authors: Xiaodong Niu，Xiangfan Li, Yaping Wang, Mingfu Wen
 ---
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
@@ -40,34 +40,38 @@ While,The magnetic response characteristics of magnetic fluid make it applicable
 Hence, it's meaningful to consider advance techniques of magnetic fluid application. In fact, the emergence of magnetic fluid originated from the sealing problem of early space suit, 
 and is still an alternative approach for lubrication and sealing with great potential in space exploration.<br>
 
-### Related publications:
+## Related publications:
 ---
 *[__Zhang Y__, Li X, Wang, Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
 • Research of a 3D simulation of PEMFC integrated with TED (2018-2019)
 ======
-### Co-authors: Qinghe Yao, Trevor Hocksun Kwan
+## Co-authors: Qinghe Yao, Trevor Hocksun Kwan
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
 The thermoelectric device achieves cooling or heating PEMFC by switching between TEC mode and TEG mode and avoid exposure of PEMFC to excessively high or low temperature. 
 The developed 3D multiphysics simulation based on COMSOL successfully demonstrated the heat distribution of the coupled system and conducted some discussions based on it.
 
-### Related Publications: 
+## Related Publications: 
 ---
 *[Kwan, T.H., __Y. Zhang__, and Q. Yao, A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462]*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!--{% if author.googlescholar %}-->
+<!--  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>-->
 
-{% include base_path %}
+<!--{% endif %}-->
 
-#一个 for 循环，用于迭代作者的出版物。在每次迭代中，我们包含一个 HTML 片段，以显示文章的标题和相关信息。每个构建的页面都会显示所有出版物，按照最近发表的文章从新到旧的顺序排列。
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}-->
+<!--{% include base_path %}-->
+
+<!--#一个 for 循环，用于迭代作者的出版物。在每次迭代中，我们包含一个 HTML 片段，以显示文章的标题和相关信息。每个构建的页面都会显示所有出版物，按照最近发表的文章从新到旧的顺序排列。-->
+
+<!--{% for post in site.publications reversed %}-->
+
+ <!-- {% include archive-single.html %}-->
+
+<!--{% endfor %}  -->
+
 
 
