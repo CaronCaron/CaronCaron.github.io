@@ -32,7 +32,7 @@ The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China   Nov
 
 # 📖 Educations
 • Master of Engineering, Shantou University                                    2021-Now
-
+[跳转到 Research Interests](/#-research-interests)
 • Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University        2015-2019
 
 # 🎖 Honors & Awards
