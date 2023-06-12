@@ -16,7 +16,7 @@ Also, you can conviniently find informations about my research and publications 
 
 My CV is available here: [Caron Zhang's Curriculum Viate].
 
-# Research
+# Research Interests
 Lattice Boltzmann method and simplified lattice Boltzmann method (SLBM)
 
 Magnetohydrodynamics and Rosensweig insitibility
@@ -35,7 +35,7 @@ The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China   Nov
 
 • Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University        2015-2019
 
-# 🎖 Honors and Awards
+# 🎖 Honors & Awards
 • China Postgraduate Mathematical Contest in Modeling (Second Prize)
 
 • China Undergraduate Mathematical Contest in Modeling (Third Prize)
