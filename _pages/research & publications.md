@@ -12,6 +12,7 @@ author_profile: true
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
 It occurs at the interfaces between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. 
 Rosensweig instability usually exhibits spikes along the direction of the magnetic field, while other topological shapes (rupture and soliton) also appear as different magnetic field applied.
+
 The research is interested in inner mechanism of emergence and evolution of Rosensiweig instability in multiphase flow system which is meaningful for providing effective interface control strategies for magnetic fluid applications in lubricaion/sealing, biomedicine, liquid robots and so on. 
 Also, we promoted the multipahse lattice Boltzmann method for conviniently establishing numerical simulation in this work. 
 
@@ -37,6 +38,7 @@ _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of fer
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
 While,The magnetic response characteristics of magnetic fluid make it applicable to control and easy to avoid pollution and leakage. 
+
 Hence, it's meaningful to consider advance techniques of magnetic fluid application. In fact, the emergence of magnetic fluid originated from the sealing problem of early space suit, 
 and is still an alternative approach for lubrication and sealing with great potential in space exploration.<br>
 
@@ -51,6 +53,7 @@ and is still an alternative approach for lubrication and sealing with great pote
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
+
 The thermoelectric device achieves cooling or heating PEMFC by switching between TEC mode and TEG mode and avoid exposure of PEMFC to excessively high or low temperature. 
 The developed 3D multiphysics simulation based on COMSOL successfully demonstrated the heat distribution of the coupled system and conducted some discussions based on it.
 
