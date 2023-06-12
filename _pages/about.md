@@ -8,7 +8,8 @@ redirect_from:                 # 旧的/已更改的URL，这个页面的链接�
   - /about.html
 ---
 # About me
-Hey, welcome to my page! The page is building now, let's looking forward to it finished~
+---
+Hey, welcome to my page! The page is building now, let's looking forward to it finished~ <br>
 ---
 This is Yongchao Zhang (Caron), a master's student from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). My research interest includes computational fluid dynamics, multiphase flow, Lattice Boltzmann Method and Magnetic Fluid Dynamics. As a overview, I listed some of my basic informations in this page : Research Interests, Recent Updates, Education, Honors and Awards as follows.
 Also, you can conviniently find informations about my research and publications in the Page of "Research & Publications". 
@@ -16,6 +17,7 @@ Also, you can conviniently find informations about my research and publications 
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
 
 <h1 id=interests>Research Interests</h1> 
+---
 Lattice Boltzmann method and simplified lattice Boltzmann method (SLBM)<br>
 Magnetohydrodynamics and Rosensweig insitibility<br>
 Magnetic fluid multiphase flow <br>
@@ -23,12 +25,14 @@ Parallel computing algorithms<br>
 
 ## Recent and Forthcoming Meetings
 The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China 　　　　 Aug 2023 <br>
-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China　　　Nov 2022<br>
+The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China　　　Nov 2022 <br>
 
 # 📖 Educations
-• Master of Engineering, Shantou University　　　　　　　　　　　　　　　　　　　2021-Now <br>
+---
+• Master of Engineering, Shantou University　　　　　　　　　　　　　　　　　　2021-Now <br>
 • Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University　　　　2015-2019 <br>
 <h1 id=honors>🎖 Honors & Awards</h1> <br>
+---
 • China Postgraduate Mathematical Contest in Modeling (Second Prize)<br>
 • China Undergraduate Mathematical Contest in Modeling (Third Prize)<br>
 • Shantou University Academic Scholarship (First Prize)<br>
