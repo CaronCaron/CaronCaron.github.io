@@ -16,9 +16,10 @@ Also, you can conviniently find informations about my research and publications 
 
 My CV is available here: [Caron Zhang's Curriculum Viate].
 
-<p id="interest"> 
-\# Research Interests 
-</p>
+<p id="interest">  </p>
+# Research Interests 
+
+
 Lattice Boltzmann method and simplified lattice Boltzmann method (SLBM)
 
 Magnetohydrodynamics and Rosensweig insitibility
