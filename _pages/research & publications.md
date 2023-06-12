@@ -7,7 +7,7 @@ author_profile: true
 
 • Research of a numerical simulation of Rosensweig Instability with lattice Boltzmann method (2022-2023)
 ======
-Co-authors: Xiaodong Niu, Adnan Khan
+##Co-authors: Xiaodong Niu, Adnan Khan
 ---
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
 It occurs at the interfaces between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. 
