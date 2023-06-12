@@ -53,7 +53,7 @@ and is still an alternative approach for lubrication and sealing with great pote
   
 • Research of a 3D simulation of PEMFC integrated with TED 
 ====== 
-### <font face="Times of New Rome"> _Supervisor: Qinghe Yao Co-author: Trevor Hocksun Kwan (2018-2019 at SYSU)_ </font>
+### <font face="Times of New Rome"> *Supervisor: Qinghe Yao Co-author: Trevor Hocksun Kwan (2018-2019 at SYSU)*</font>
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
