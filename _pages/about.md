@@ -35,10 +35,12 @@ The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China   Nov
 
 • Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University        2015-2019
 
-# 🎖 Honors & Awards
+# 🎖 Honors and Awards
 • China Postgraduate Mathematical Contest in Modeling (Second Prize)
 
 • China Undergraduate Mathematical Contest in Modeling (Third Prize)
 
 • Shantou University Academic Scholarship (First Prize)
+
+# Skills
 
