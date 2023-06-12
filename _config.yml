@@ -182,9 +182,9 @@ collections:
 #   teaching:
 #     output: true
 #     permalink: /:collection/:path/
-  research & publications:
+  research:
     output: true
-    permalink: /:research & publications/:path/ 
+    permalink: /:research/:path/ 
   cv:
     output: true
     permalink: /:cv/:path/
@@ -203,17 +203,17 @@ defaults:
       layout: single
       author_profile: true
       
-   # _research and publications
+   # _research
    - scope:
       path: ""
-      type: research and publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
       
-    # _research & publications
+    # _miscellaneous
    - scope:
       path: ""
       type: miscellaneous
