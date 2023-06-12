@@ -2,19 +2,18 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-    children:
-      - title: "Educations"
-        url: "/#-educations"
-      - title: "Research Interests"
-        url: "/#-research interests"
-      - title: "Publications"
-        url: "/#-publications"
-      - title: "Honors and Awards"
-        url: "/#-honors-and-awards"
-  
+  - title: "Educations"
+    url: "/#-educations"
+  - title: "Research Interests"
+    url: "/#-research interests"
+  - title: "Publications"
+    url: "/#-publications"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
   
   - title: "Research & Publications"
-    url: /#research & publications   
+    url: /research & publications/   
 
   - title: "Miscellaneous"
     url: /miscellaneous/
