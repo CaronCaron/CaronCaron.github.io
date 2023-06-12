@@ -17,6 +17,7 @@ ternary system based on Lattice Boltzmann method and phase field method. Related
 speech in 12th National fluid mechanics Academic Conference and 17th Asian Congress of Fluid Mechanics
  
 Related Publications: 
+---
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
 
 >>>Talks at the forthcoming 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China (Aug 2023)<br>
@@ -43,6 +44,7 @@ Therefore, it's meaningful to consider advance techniques of magnetic fluid appl
 and is still an alternative approach for lubrication and sealing with great potential in space exploration.<br>
 
 Related publications:
+---
 [Zhang Y, Li X, Wang, Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)  
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
@@ -56,8 +58,9 @@ The thermoelectric device achieves cooling or heating PEMFC by switching between
 The developed 3D multiphysics simulation based on COMSOL successfully demonstrated the heat distribution of the coupled system and conducted some discussions based on it。
 
 Related Publications: 
+---
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
-Kwan, T.H., Y. Zhang, and Q. Yao, A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462
+[Kwan, T.H., Y. Zhang, and Q. Yao, A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462]
 
 <!--
 {% if author.googlescholar %}
