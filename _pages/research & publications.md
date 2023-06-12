@@ -15,6 +15,9 @@ The Application of Magnetic Fluids as Lubricating and Sealing Media in Extreme S
 Developed a numerical simulation of Rosensweig instability (spikes and rupture controlling) in a sandwiched
 ternary system based on Lattice Boltzmann method and phase field method. Related work are accepted as oral
 speech in 12th National fluid mechanics Academic Conference and 17th Asian Congress of Fluid Mechanics
+ 
+Related Publications: 
+<!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
 
 >>>Talks at the forthcoming 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China (Aug 2023)<br>
 
@@ -47,8 +50,16 @@ Related publications:
 ======
 Co-authors: Qinghe Yao, Trevor Hocksun Kwan
 ---
+This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
+Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
+The thermoelectric device achieves cooling or heating PEMFC by switching between TEC mode and TEG mode and avoid exposure of PEMFC to excessively high or low temperature. 
+The developed 3D multiphysics simulation based on COMSOL successfully demonstrated the heat distribution of the coupled system and conducted some discussions based on it。
+
 Related Publications: 
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
+Kwan, T.H., Y. Zhang, and Q. Yao, A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462
+
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -58,6 +69,6 @@ Related Publications:
 #一个 for 循环，用于迭代作者的出版物。在每次迭代中，我们包含一个 HTML 片段，以显示文章的标题和相关信息。每个构建的页面都会显示所有出版物，按照最近发表的文章从新到旧的顺序排列。
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
 
 
