@@ -9,7 +9,8 @@ author_profile: true
 ======
 Co-authors: Xiaodong Niu, Adnan Khan
 ---
-investigating the lubrication/sealing techniques 
+Rosensweig instability is a rare interface instability phenomenon that occurs in conservative systems. 
+Rosensweig instability occurs at the interface between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. it usually behaves 
 The Application of Magnetic Fluids as Lubricating and Sealing Media in Extreme Space Environments
 Developed a numerical simulation of Rosensweig instability (spikes and rupture controlling) in a sandwiched
 ternary system based on Lattice Boltzmann method and phase field method. Related work are accepted as oral
@@ -45,6 +46,8 @@ Related publications:
 • Research of a 3D simulation of PEMFC integrated with TED (2018-2019)
 ======
 Co-authors: Qinghe Yao, Trevor Hocksun Kwan
+---
+Related Publications: 
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
