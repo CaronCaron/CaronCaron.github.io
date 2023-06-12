@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
   
   - title: "Research Interests"
-    url: "/#-research%2Dinterests"
+    url: "/#interst"
   
   - title: "Educations"
-    url: "/#skill"
+    url: "/#educations"
     
   - title: "Publications"
     url: "/#-publications"
