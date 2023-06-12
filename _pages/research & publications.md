@@ -46,7 +46,7 @@ and is still an alternative approach for lubrication and sealing with great pote
 Related publications:
 ---
 [Zhang Y, Li X, Wang, Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)  
-<!--#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
 • Research of a 3D simulation of PEMFC integrated with TED (2018-2019)
 ======
@@ -59,9 +59,8 @@ The developed 3D multiphysics simulation based on COMSOL successfully demonstrat
 
 Related Publications: 
 ---
-<!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
 [Kwan, T.H., Y. Zhang, and Q. Yao, A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462]
-
+<!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
