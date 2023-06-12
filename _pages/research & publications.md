@@ -37,6 +37,8 @@ _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of fer
 ## 2021-2022 at STU
 ## Co-authors: Xiaodong Niu，Xiangfan Li, Yaping Wang, Mingfu Wen
 ---
+## <font face="Times of New Rome"> _2018-2019 at SYSU_ </font>
+## <font face="Times of New Rome"> _Supervisor: Qinghe Yao Co-author: Trevor Hocksun Kwan_ </font>
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
 While,The magnetic response characteristics of magnetic fluid make it applicable to control and easy to avoid pollution and leakage. 
@@ -49,10 +51,9 @@ and is still an alternative approach for lubrication and sealing with great pote
 *[__Zhang Y__, Li X, Wang, Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
-• Research of a 3D simulation of PEMFC integrated with TED (2018-2019)
+• Research of a 3D simulation of PEMFC integrated with TED 
 ====== 
-## <font face="Times of New Rome"> 2018-2019 at SYSU </font>
-## <font face="Times of New Rome"> Co-authors: Qinghe Yao, Trevor Hocksun Kwan </font>
+## <font face="Times of New Rome"> _2018-2019 at SYSU Supervisor: Qinghe Yao Co-author: Trevor Hocksun Kwan _ </font>
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
@@ -64,20 +65,5 @@ The developed 3D multiphysics simulation based on COMSOL successfully demonstrat
 ---
 *[Kwan, T.H., __Y. Zhang__, and Q. Yao, A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462]*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
-<!--{% if author.googlescholar %}-->
-<!--  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>-->
-
-<!--{% endif %}-->
-
-<!--{% include base_path %}-->
-
-<!--#一个 for 循环，用于迭代作者的出版物。在每次迭代中，我们包含一个 HTML 片段，以显示文章的标题和相关信息。每个构建的页面都会显示所有出版物，按照最近发表的文章从新到旧的顺序排列。-->
-
-<!--{% for post in site.publications reversed %}-->
-
- <!-- {% include archive-single.html %}-->
-
-<!--{% endfor %}  -->
-
 
 
