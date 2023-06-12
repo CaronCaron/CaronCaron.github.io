@@ -7,13 +7,13 @@ main:
     url: "/#-research%2Dinterests"
   
   - title: "Educations"
-    url: "/#skill-a"
+    url: "/#skill"
     
-#   - title: "Publications"
-#     url: "/#-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
-#   - title: "Honors & Awards"
-#     url: "/#-Honors-%26-Awards"
+  - title: "Honors & Awards"
+    url: "/#-interest"
   
 #   - title: "Honors and Awards"
 #     url: "/#-honors-and-awards"
