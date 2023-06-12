@@ -203,35 +203,35 @@ defaults:
       layout: single
       author_profile: true
       
-   # _research
-   - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-      
-    # _miscellaneous
-   - scope:
-      path: ""
-      type: miscellaneous
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-     
-     # _contact
-   - scope:
-      path: ""
-      type: contact
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+ # _research
+ - scope:
+    path: ""
+    type: research
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+
+  # _miscellaneous
+ - scope:
+    path: ""
+    type: miscellaneous
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+
+   # _contact
+ - scope:
+    path: ""
+    type: contact
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
 
 
 #   # _posts
