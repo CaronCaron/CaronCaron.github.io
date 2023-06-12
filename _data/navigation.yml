@@ -2,12 +2,12 @@
 main:
   - title: "About Me"
     url: "/#about-me"
- 
-  - title: "Educations"
-    url: "/#-Educations"
   
   - title: "Research Interests"
     url: "/#-Research Interests"
+    
+  - title: "Educations"
+    url: "/#-Educations"
     
 #   - title: "Publications"
 #     url: "/#-publications"
