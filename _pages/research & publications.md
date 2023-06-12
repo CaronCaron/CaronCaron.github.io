@@ -33,7 +33,7 @@ Also, we promoted the multipahse lattice Boltzmann method for conviniently estab
   
 Research —— Lubrication/sealing application of magnetic fluid
 ======
-### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu    |Co-author: Xiangfan Li, Yaping Wang, Mingfu Wen       |2021-2022 at STU *</font>
+### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu　　　　　|Co-author: Xiangfan Li, Yaping Wang, Mingfu Wen　　　　　|2021-2022 at STU *</font>
 ---
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
@@ -49,7 +49,7 @@ and is still an alternative approach for lubrication and sealing with great pote
   
 Research —— A 3D simulation of PEMFC integrated with TED 
 ====== 
-### <font face="Times of New Rome"> * Supervisor: Qinghe Yao    |Co-author: Trevor Hocksun Kwan      |2018-2019 at SYSU *</font>
+### <font face="Times of New Rome"> * Supervisor: Qinghe Yao　　　　　|Co-author: Trevor Hocksun Kwan　　　　　|2018-2019 at SYSU *</font>
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
