@@ -35,7 +35,7 @@ Niu X, Khan A, Zhang Y. A simplified phase-field lattice Boltzmann method with a
   
 • Research of lubrication/sealing application of magnetic fluid (2021-2022)
 ======
-Co-authors: Xiaodong Niu， Xiangfan Li, Yaping Wang, Mingfu Wen
+Co-authors: Xiaodong Niu，Xiangfan Li, Yaping Wang, Mingfu Wen
 ---
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
