@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
   
   - title: "Research Interests"
-    url: "/#interest"
+    url: "/#-interests"
   
   - title: "Educations"
     url: "/#-educations"
@@ -13,10 +13,10 @@ main:
 #     url: "/#-publications"
 
   - title: "Honors & Awards"
-    url: "/#-interest"
+    url: "/#-honors"
   
 #   - title: "Honors and Awards"
-#     url: "/#-honors-and-awards"
+#     url: "/#-honors"
   
   - title: "Research & Publications"
     url: /research & publications/   
