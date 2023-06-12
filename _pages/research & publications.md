@@ -5,11 +5,9 @@ permalink: /research & publications/
 author_profile: true
 ---
 
-Research —— a numerical simulation of Rosensweig Instability with lattice Boltzmann method 
+Research —— A numerical simulation of Rosensweig Instability with lattice Boltzmann method 
 ======
-## 2022-Now,STU
-## Co-authors: Xiaodong Niu, Adnan Khan
-
+### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu Co-author: Adnan Khan | 2022-Now at STU *</font>
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
 It occurs at the interfaces between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. 
 Rosensweig instability usually exhibits spikes along the direction of the magnetic field, while other topological shapes (rupture and soliton) also appear as different magnetic field applied.
@@ -32,13 +30,10 @@ _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of fer
 
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
-• Research of lubrication/sealing application of magnetic fluid (2021-2022)
+Research —— Lubrication/sealing application of magnetic fluid
 ======
-## 2021-2022 at STU
-## Co-authors: Xiaodong Niu，Xiangfan Li, Yaping Wang, Mingfu Wen
+### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu Co-author: Xiangfan Li, Yaping Wang, Mingfu Wen | 2021-2022 at STU *</font>
 ---
-## <font face="Times of New Rome"> _2018-2019 at SYSU_ </font>
-## <font face="Times of New Rome"> _Supervisor: Qinghe Yao Co-author: Trevor Hocksun Kwan_ </font>
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
 While,The magnetic response characteristics of magnetic fluid make it applicable to control and easy to avoid pollution and leakage. 
@@ -51,9 +46,9 @@ and is still an alternative approach for lubrication and sealing with great pote
 *[__Zhang Y__, Li X, Wang, Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
-• Research of a 3D simulation of PEMFC integrated with TED 
+Research —— A 3D simulation of PEMFC integrated with TED 
 ====== 
-### <font face="Times of New Rome"> *Supervisor: Qinghe Yao Co-author: Trevor Hocksun Kwan (2018-2019 at SYSU)*</font>
+### <font face="Times of New Rome"> * Supervisor: Qinghe Yao Co-author: Trevor Hocksun Kwan | 2018-2019 at SYSU *</font>
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
