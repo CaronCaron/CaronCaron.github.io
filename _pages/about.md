@@ -22,7 +22,7 @@ Lattice Boltzmann method and simplified lattice Boltzmann method (SLBM)<br>
 Magnetohydrodynamics and Rosensweig insitibility<br>
 Magnetic fluid multiphase flow <br>
 Parallel computing algorithms<br>
-<h2>Recent and Forthcoming Meetings</h2>
+<h1>Recent and Forthcoming Meetings</h1>
 <div><span style="float:right">Aug 2023</span>The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</div>
 <div><span style="float:right">Nov 2022</span>The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</div>
 <h1> 📖 Educations</h1>
