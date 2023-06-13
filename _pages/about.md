@@ -11,7 +11,9 @@ redirect_from:                 # 旧的/已更改的URL，这个页面的链接�
 ---
 Hey, welcome to my page! The page is building now, let's looking forward to it finished~ <br>
 ---
-This is Yongchao Zhang (Caron), a master's student from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). My research interest includes computational fluid dynamics, multiphase flow, Lattice Boltzmann Method and Magnetic Fluid Dynamics. As a overview, I listed some of my basic informations in this page : Research Interests, Recent Updates, Education, Honors and Awards as follows.
+This is Yongchao Zhang (Caron), a master's student from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). 
+My research interest includes computational fluid dynamics, Lattice Boltzmann Method and Magnetic Fluid Dynamics. My research involves numerical computation and simulation, aimed at investigating the characteristics of magnetic fluid multiphase flow and exploring the application of simulation methods based on CFD and LBM in this field.
+As a overview, I listed some of my basic informations in this page : Research Interests, Recent Talks, Education, Honors and Awards as follows.
 Also, you can conviniently find informations about my research and publications in the Page of "Research & Publications". 
 
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
