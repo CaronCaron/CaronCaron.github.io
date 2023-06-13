@@ -24,8 +24,8 @@ Magnetic fluid multiphase flow <br>
 Parallel computing algorithms<br>
 
 ## Recent and Forthcoming Meetings
-The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China 　　　　 <p align="right">Aug 2023</p> <br>
-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China　　　 <p align="right">Nov 2022</p> <br>
+<p align="left">The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</p><p align="right">Aug 2023</p> 
+<p align="left">The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</p><p align="right">Nov 2022</p> 
 
 # 📖 Educations
 ---
