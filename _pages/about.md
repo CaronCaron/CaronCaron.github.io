@@ -22,7 +22,6 @@ Lattice Boltzmann method and simplified lattice Boltzmann method (SLBM)<br>
 Magnetohydrodynamics and Rosensweig insitibility<br>
 Magnetic fluid multiphase flow <br>
 Parallel computing algorithms<br>
-
 ## Recent and Forthcoming Meetings
 <div><span style="float:right">Aug 2023</span>The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</div>
 <div><span style="float:right">Nov 2022</span>The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</div>
@@ -30,7 +29,7 @@ Parallel computing algorithms<br>
 ---
 <div><span style="float:right">2021-Now</span>• Master of Engineering, Shantou University</div>
 <div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University</div>
-<h1 id=honors>🎖 Honors & Awards</h1> <br>
+<h1 id=honors>🎖 Honors & Awards</h1>
 ---
 <div><span style="float:right">Second Prize</span>• China Postgraduate Mathematical Contest in Modeling</div>
 <div><span style="float:right">Third Prize</span>• China Undergraduate Mathematical Contest in Modeling</div>
