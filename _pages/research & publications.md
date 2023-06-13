@@ -7,7 +7,7 @@ author_profile: true
 
 Research —— A numerical simulation of Rosensweig Instability with lattice Boltzmann method 
 ======
-<h3> <font face="Times of New Rome"> * Supervisor: [Xiaodong Niu](https://scholar.google.com/citations?user=StJCQfAAAAAJ) 　　　　　|Co-author: Adnan Khan　　　　　|2022-Now at STU *</font></h3>
+<h3><font face="Times of New Rome"> * Supervisor: [Xiaodong Niu](https://scholar.google.com/citations?user=StJCQfAAAAAJ) 　　　　　|Co-author: Adnan Khan　　　　　|2022-Now at STU *</font></h3>
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
 It occurs at the interfaces between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. 
 Rosensweig instability usually exhibits spikes along the direction of the magnetic field, while other topological shapes (rupture and soliton) also appear as different magnetic field applied.
