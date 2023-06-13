@@ -33,7 +33,7 @@ Also, we promoted the multipahse lattice Boltzmann method for conviniently estab
   
 Research —— Lubrication/sealing application of magnetic fluid
 ======
-### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu　　　|Co-author: Xiangfan Li, Yaping Wang, Mingfu Wen　　　|2021-2022 at STU *</font>
+### <font face="Times of New Rome"> * Supervisor: Xiaodong Niu　　|Co-author: Xiangfan Li, Yaping Wang, Mingfu Wen　　|2021-2022 at STU *</font>
 ---
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
