@@ -59,7 +59,7 @@ The developed 3D multiphysics simulation based on COMSOL successfully demonstrat
 
 ## Related Publications: 
 ---
-*[Kwan, T.H., __Zhang Y,__, and Yao Q. A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462]*
+*[Kwan, T.H., __Zhang Y__, and Yao Q. A coupled 3D electrochemical and thermal numerical analysis of the hybrid fuel cellthermoelectric device system. International Journal of Hydrogen Energy, 2018.43(52): p. 23450-23462]*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
 
 
