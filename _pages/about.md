@@ -18,7 +18,7 @@ Also, you can conviniently find informations about my research and publications 
 
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
 
-<h1>Research Interests</h1>
+<h1 id=interests>Research Interests</h1>
 ---
 Lattice Boltzmann method (LBM) and simplified lattice Boltzmann method (SLBM)<br>
 Magnetohydrodynamics and Rosensweig insitibility<br>
@@ -28,7 +28,7 @@ Parallel computing algorithms<br>
 ---
 <div><span style="float:right">Aug 2023</span>The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</div>
 <div><span style="float:right">Nov 2022</span>The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</div><br>
-<h1> 📖 Educations</h1>
+<h1 id=educations> 📖 Educations</h1>
 ---
 <div><span style="float:right">2021-Now</span>• Master of Engineering, Shantou University</div>
 <div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University</div><br>
