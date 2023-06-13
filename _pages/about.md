@@ -29,11 +29,9 @@ Parallel computing algorithms<br>
 # 📖 Educations
 ---
 <div><span style="float:right">2021-Now</span>• Master of Engineering, Shantou University</div>
-• Master of Engineering, Shantou University<p align="right">2021-Now</p> <br>
-• Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University<p align="right">2015-2019</p> <br>
 <div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University</div>
 <h1 id=honors>🎖 Honors & Awards</h1> <br>
 ---
-• China Postgraduate Mathematical Contest in Modeling  <p align="right">Second Prize</p><br>
-• China Undergraduate Mathematical Contest in Modeling  <p align="right">Third Prize</p><br>
-• Shantou University Academic Scholarship  <p align="right">First Prize</p><br>
+<div><span style="float:right">Second Prize</span>• China Postgraduate Mathematical Contest in Modeling</div>
+<div><span style="float:right">Third Prize</span>• China Undergraduate Mathematical Contest in Modeling</div>
+<div><span style="float:right">First Prize</span>• Shantou University Academic Scholarship</div>
