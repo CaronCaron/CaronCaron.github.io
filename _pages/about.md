@@ -20,7 +20,7 @@ Also, you can conviniently find informations about my research and publications 
 
 <h1>Research Interests</h1>
 ---
-Lattice Boltzmann method and simplified lattice Boltzmann method (SLBM)<br>
+Lattice Boltzmann method (LBM) and simplified lattice Boltzmann method (SLBM)<br>
 Magnetohydrodynamics and Rosensweig insitibility<br>
 Magnetic fluid multiphase flow <br>
 Parallel computing algorithms<br>
