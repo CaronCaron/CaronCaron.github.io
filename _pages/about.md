@@ -24,14 +24,14 @@ Magnetic fluid multiphase flow <br>
 Parallel computing algorithms<br>
 
 ## Recent and Forthcoming Meetings
-<p align="left">The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</p> <p align="right">Aug 2023</p> 
 <div><span style="float:right">Aug 2023</span>The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</div>
-<p align="left">The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</p> <p align="right">Nov 2022</p> 
 <div><span style="float:right">Nov 2022</span>The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</div>
 # 📖 Educations
 ---
+<div><span style="float:right">2021-Now</span>• Master of Engineering, Shantou University</div>
 • Master of Engineering, Shantou University<p align="right">2021-Now</p> <br>
 • Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University<p align="right">2015-2019</p> <br>
+<div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University</div>
 <h1 id=honors>🎖 Honors & Awards</h1> <br>
 ---
 • China Postgraduate Mathematical Contest in Modeling  <p align="right">Second Prize</p><br>
