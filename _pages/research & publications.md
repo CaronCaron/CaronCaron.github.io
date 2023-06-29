@@ -7,7 +7,7 @@ author_profile: true
 
 Research —— A numerical simulation of Rosensweig Instability with lattice Boltzmann method 
 ======
-### <font face="Times of New Rome"> * Supervisor: <a href="https://scholar.google.com/citations?user=StJCQfAAAAAJ">Xiaodong Niu</a>　　　　　|Co-author: <a href="[https://www.researchgate.net/profile/Adnan-Khan-14]">Adnan-Khan</a>　　　　　|2022-Now at STU *</font>
+### <font face="Times of New Rome"> * Supervisor: <a href="https://scholar.google.com/citations?user=StJCQfAAAAAJ">Xiaodong Niu</a>　　　　　|Co-author: <a href="https://www.researchgate.net/profile/Adnan-Khan-14">Adnan-Khan</a>　　　　　|2022-Now at STU *</font>
 Rosensweig instability is a special interface instability phenomenon that happens in conservative systems. 
 It occurs at the interfaces between magnetic fluid and other fluids when magnetic field is applied to the multiphase flow system. 
 Rosensweig instability usually exhibits spikes along the direction of the magnetic field, while other topological shapes (rupture and soliton) also appear as different magnetic field applied.
@@ -33,7 +33,7 @@ Also, we promoted the multipahse lattice Boltzmann method for conviniently estab
   
 Research —— Lubrication/sealing application of magnetic fluid
 ======
-### <font face="Times of New Rome"> * Supervisor: <a href="[https://scholar.google.com/citations?user=StJCQfAAAAAJ]">Xiaodong Niu</a>　　|Co-author: Xiangfan Li, Yaping Wang, Mingfu Wen　　|2021-2022 at STU *</font>
+### <font face="Times of New Rome"> * Supervisor: <a href="https://scholar.google.com/citations?user=StJCQfAAAAAJ">Xiaodong Niu</a>　　|Co-author: Xiangfan Li, Yaping Wang, Mingfu Wen　　|2021-2022 at STU *</font>
 ---
 This work refers to the application of magneitic fluid as lubricant and sealing technique in various special environments (in space, in micro medical devices,in water) 
 Specially, in harsh cosmic environments, the existance of vacuum, radiation, and tehrmal cycling can lead to a disaster if any leakage happens.
@@ -49,7 +49,7 @@ and is still an alternative approach for lubrication and sealing with great pote
   
 Research —— A 3D simulation of PEMFC integrated with TED 
 ====== 
-### <font face="Times of New Rome"> * Supervisor: <a href="[https://www.researchgate.net/profile/Qing-He-Yao]">Qinghe Yao</a>　　　　　|Co-author: <a href="[https://www.researchgate.net/profile/Trevor-Kwan]">Trevor Hocksun Kwan</a>　　　　　|2018-2019 at SYSU *</font>
+### <font face="Times of New Rome"> * Supervisor: <a href="https://www.researchgate.net/profile/Qing-He-Yao">Qinghe Yao</a>　　　　　|Co-author: <a href="https://www.researchgate.net/profile/Trevor-Kwan">Trevor Hocksun Kwan</a>　　　　　|2018-2019 at SYSU *</font>
 ---
 This work refers to improve the Proton-exchange membrane fuel cell (PEMFC) thermal management by adding thermoelectric modules to both sides of PEMFC. 
 Well designed thermal managment strategy helps to maintain PEMFC a relatively stable working state and therefore improve their performance.
