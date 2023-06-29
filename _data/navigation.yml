@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
   
-  - title: "Research Interests"
-    url: "/#interests"
+  # - title: "Research Interests"
+  #   url: "/#interests"
   
-  - title: "Educations"
-    url: "/#educations"
+  # - title: "Educations"
+  #   url: "/#educations"
     
 #   - title: "Publications"
 #     url: "/#-publications"
 
-  - title: "Honors & Awards"
-    url: "/#honors"
+  # - title: "Honors & Awards"
+  #   url: "/#honors"
   
 #   - title: "Honors and Awards"
 #     url: "/#-honors"
@@ -21,8 +21,8 @@ main:
   - title: "Research & Publications"
     url: /research & publications/   
 
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  # - title: "Miscellaneous"
+  #   url: /miscellaneous/
     
   # - title: "Contact"
   #   url: /contact/
