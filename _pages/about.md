@@ -25,16 +25,16 @@ Also, you can conviniently find information about my research and publications i
 
 |||
 |-------------------------------|-------------------------|
-|  Computational Fluid Dynamics | Magnetohydrodynamics    |
+| Computational Fluid Dynamics | Magnetohydrodynamics    |
 | Numerical Simulation          | Ferrofluid Flow         |
 | Lattice Boltzmann Method      | Multiphase Flow         |
 | Direct Numerical Simulation   | Rosensweig Insitibility |
 | Parallel Computing            | Wettability             |
 
-<table width="600" border=" ">
+<table width="600" border="">
   <tr>
-    <td>• Computational Fluid Dynamics</td>
-    <td>• Magnetohydrodynamics</td>
+    <td><font size=12>• Computational Fluid Dynamics</font></td>
+    <td><font size=12>• Magnetohydrodynamics</font></td>
   </tr>
   <tr>
     <td>• Numerical Simulation</td>
