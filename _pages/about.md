@@ -23,14 +23,13 @@ Also, you can conviniently find information about my research and publications i
 <h1 id=interests>Research Interests</h1>
 --- 
 
-|||
-|-------------------------------|-------------------------|
-| <font size=2>Computational Fluid Dynamics</font> | <font size=3>Magnetohydrodynamics</font>    |
-| Numerical Simulation          | Ferrofluid Flow         |
-| Lattice Boltzmann Method      | Multiphase Flow         |
-| Direct Numerical Simulation   | Rosensweig Insitibility |
-| Parallel Computing            | Wettability             |
-
+| <font size=4>Computational Fluid Dynamics</font>  | <font size=4>Multiphase Flow</font>         |
+|---------------------------------------------------|---------------------------------------------|
+| <font size=4>Numerical Simulation</font>          | <font size=4>Magnetohydrodynamics</font>    |
+| <font size=4>Lattice Boltzmann Method</font>      | <font size=4>Ferrofluid Flow</font>         |
+| <font size=4>Direct Numerical Simulation</font>   | <font size=4>Rosensweig Insitibility</font> |
+| <font size=4>Parallel Computing</font>            | <font size=4>Wettability</font>             |
+<!--
 <table width="600" border="">
   <tr>
     <td><font size=4>• Computational Fluid Dynamics</font></td>
@@ -53,7 +52,7 @@ Also, you can conviniently find information about my research and publications i
     <td>• Wettability</td>
   </tr>
 <br>
-</table>
+</table>-->
 <h1>Conference & Presentation</h1>
 ---
 <div><span style="float:right">Aug 2023</span>The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</div>
