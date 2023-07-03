@@ -11,11 +11,13 @@ redirect_from:                 # 旧的/已更改的URL，这个页面的链接�
 ---
 Hey, welcome to my page!  <br>
 ---
-This is Yongchao Zhang (Caron), a Master's student advised by [Xiaodong Niu(牛小东)](https://scholar.google.com/citations?user=StJCQfAAAAAJ) from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). 
+  This is Yongchao Zhang (Caron)\^_^/, a Master's student advised by [Xiaodong Niu(牛小东)](https://scholar.google.com/citations?user=StJCQfAAAAAJ) from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). 
 <br>
-My research interests lie in Lattice Boltzmann Method and Magnetic Fluid Dynamic Simulations. Recently I'm working on an investigation of Rosensweig Instability, where a magnetic fluid layer depicts amazing patterns in a ternary flow.
+
+  My research interests lie in Lattice Boltzmann Method and Magnetic Fluid Dynamic Simulations. Recently I'm working on an investigation of Rosensweig Instability, where a magnetic fluid layer depicts amazing patterns in a ternary flow.
 <br>
-As a overview, I listed some of my basic informations in this page: Research Interests, Conference & Presentation, Education, Honors & Awards as follows.
+
+  As a overview, I listed some of my basic informations in this page: Research Interests, Conference & Presentation, Education, Honors & Awards as follows.
 Also, you can conviniently find information about my research and publications in the Page of "Research & Publications". 
 
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
@@ -30,6 +32,7 @@ Also, you can conviniently find information about my research and publications i
 | <font size=4>Direct Numerical Simulation</font>   | <font size=4>Rosensweig Insitibility</font> |
 | <font size=4>Parallel Computing</font>            | <font size=4>Wettability</font>             |
 
+<br>
 <!--
 <table width="600" border="">
   <tr>
