@@ -20,7 +20,7 @@ Also, you can conviniently find information about my research and publications i
 
 <h1 id=interests>Research Interests</h1>
 ---
-Computational Fluid Dynamics, Numerical Simulation, Lattice Boltzmann Methods, Direct Numerical Simulations
+Computational Fluid Dynamics, Numerical Simulation, Lattice Boltzmann Method, Direct Numerical Simulation<br>
 Magnetohydrodynamics, Ferrofluid Flow, Multiphase Flow, Rosensweig insitibility, Wettability, Parallel Computing
 <br>
 <h1>Conference & Presentation</h1>
