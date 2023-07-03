@@ -21,7 +21,8 @@ Also, you can conviniently find information about my research and publications i
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
 
 <h1 id=interests>Research Interests</h1>
---- <table width="600" bordercolor="red">
+--- 
+<table width="600" bordercolor="red">
   <tr>
     <td>• Computational Fluid Dynamics</td>
     <td>• Magnetohydrodynamics</td>
