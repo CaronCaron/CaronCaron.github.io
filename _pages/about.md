@@ -13,7 +13,7 @@ Hey, welcome to my page!  <br>
 ---
 This is Yongchao Zhang (Caron), a Master's student advised by [Xiaodong Niu(牛小东)](https://scholar.google.com/citations?user=StJCQfAAAAAJ) from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). 
 My research interests lie in Lattice Boltzmann Method and Magnetic Fluid Dynamic Simulations. Recently I'm working on an investigation of Rosensweig Instability, where a magnetic fluid layer depicts amazing patterns in a ternary flow.
-As a overview, I listed some of my basic informations in this page : Research Interests, Conference & Presentation, Education, Honors & Awards as follows.
+As a overview, I listed some of my basic informations in this page: Research Interests, Conference & Presentation, Education, Honors & Awards as follows.
 Also, you can conviniently find information about my research and publications in the Page of "Research & Publications". 
 
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
@@ -29,7 +29,7 @@ Magnetohydrodynamics, Ferrofluid Flow, Multiphase Flow, Rosensweig insitibility,
 <div><span style="float:right">Nov 2022</span>The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</div><br>
 <h1 id=educations> 📖 Education</h1>
 ---
-<div><span style="float:right">2021-Now</span>• Master of Engineering, Shantou University</div>
+<div><span style="float:right">2021-Now</span>• Master's student of Mechanical Engineering, Shantou University</div>
 <div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-sen University</div><br>
 <h1 id=honors>🎖 Honors & Awards</h1>
 ---
