@@ -9,26 +9,25 @@ redirect_from:                 # 旧的/已更改的URL，这个页面的链接�
 ---
 <h1>About me</h1>
 ---
-Hey, welcome to my page! The page is building now, let's looking forward to it finished~ <br>
+Hey, welcome to my page!  <br>
 ---
 This is Yongchao Zhang (Caron), a Master's student advised by [Xiaodong Niu(牛小东)](https://scholar.google.com/citations?user=StJCQfAAAAAJ) from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). 
-My research interest includes computational fluid dynamics, Lattice Boltzmann Method and Magnetic Fluid Dynamics. My research involves numerical computation and simulation, aimed at investigating the characteristics of magnetic fluid multiphase flow and exploring the application of simulation methods based on CFD and LBM in this field.
-As a overview, I listed some of my basic informations in this page : Research Interests, Recent Talks, Education, Honors and Awards as follows.
-Also, you can conviniently find informations about my research and publications in the Page of "Research & Publications". 
+My research interests lie in Lattice Boltzmann Method and Magnetic Fluid Dynamic Simulations. Recently I'm working on an investigation of Rosensweig Instability, where a magnetic fluid layer depicts amazing patterns in a ternary flow.
+As a overview, I listed some of my basic informations in this page : Research Interests, Conference & Presentation, Education, Honors & Awards as follows.
+Also, you can conviniently find information about my research and publications in the Page of "Research & Publications". 
 
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
 
 <h1 id=interests>Research Interests</h1>
 ---
-Lattice Boltzmann method (LBM) and simplified lattice Boltzmann method (SLBM)<br>
-Magnetohydrodynamics and Rosensweig insitibility<br>
-Magnetic fluid multiphase flow <br>
-Parallel computing algorithms<br>
-<h1>Recent and Forthcoming Meetings</h1>
+Computational Fluid Dynamics, Numerical Simulation, Direct Numerical Simulations, Lattice Boltzmann Methods, 
+Ferrofluid Flow, Multiphase Flow, Rosensweig insitibility, Wettability, Parallel Computing
+<br>
+<h1>Conference & Presentation</h1>
 ---
 <div><span style="float:right">Aug 2023</span>The 17th Asian Congress of Fluid Mechanics(ACFM 2023) at Beijing, China</div>
 <div><span style="float:right">Nov 2022</span>The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China</div><br>
-<h1 id=educations> 📖 Educations</h1>
+<h1 id=educations> 📖 Education</h1>
 ---
 <div><span style="float:right">2021-Now</span>• Master of Engineering, Shantou University</div>
 <div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University</div><br>
