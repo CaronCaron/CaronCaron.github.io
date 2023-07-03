@@ -28,7 +28,7 @@ Also, you can conviniently find information about my research and publications i
 |  Lattice Boltzmann Method    |  Multiphase Flow        | 
 |  Direct Numerical Simulation |  Rosensweig Insitibility| 
 |  Parallel Computing          |  Wettability            | 
-<table border=1 frame=void rules=none cols=none >
+<table border-style: hidden >
   <tr>
     <td>• Computational Fluid Dynamics</td>
     <td>• Magnetohydrodynamics</td>
