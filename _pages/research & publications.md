@@ -21,9 +21,9 @@ Also, we promoted the multipahse lattice Boltzmann method for conviniently estab
 <!--<font color=#0099ff>color #0099ff</font>-->
 
 **<font color=CadetBlue>  TALKS-The forthcoming 17th Asian Congress of Fluid Mechanics (ACFM 2023) at Beijing, China (Aug 2023) <br></font>**
-<font color=CadetBlue> _[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow._<br> </font>
+<font color=CadetBlue>*[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow.*<br> </font>
 
-**TALKS**-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
+**Presentation**-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
 *[2] __Zhang Y__, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>
 [DOI:10.26914/c.cnkihy.2022.068744]* <br>
 *[3] Niu X, Khan A, __Zhang Y__. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference.<br>
@@ -44,7 +44,7 @@ and is still an alternative approach for lubrication and sealing with great pote
 
 ## Related publications:
 ---
-*[__Zhang Y__, Li X, Wang Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156] (http://eng.stu.edu.cn/)*
+*[__Zhang Y__, Li X, Wang Y, Wen M, Khan A, Niu X. A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156]*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
 Research —— A 3D simulation of PEMFC integrated with TED 
