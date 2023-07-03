@@ -22,7 +22,7 @@ Also, you can conviniently find information about my research and publications i
 
 <h1 id=interests>Research Interests</h1>
 --- 
-<table width="800" cellspacing="1" border="">
+<table width="600" bordercolor="white">
   <tr>
     <td>• Computational Fluid Dynamics</td>
     <td>• Magnetohydrodynamics</td>
