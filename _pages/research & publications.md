@@ -23,8 +23,8 @@ The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 
 *[2] __Zhang Y__, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>*
 *DOI:10.26914/c.cnkihy.2022.068744 <br>*
 
-*[3] Niu X-D, Khan A, __Zhang Y-C__. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1. DOI:10.26914/c.cnkihy.2022.068157.<br>*
-*DOI:2022:1. DOI:10.26914/c.cnkihy.2022.068157<br>*
+*[3] Niu X-D, Khan A, __Zhang Y-C__. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>*
+*DOI:10.26914/c.cnkihy.2022.068157<br>*
 
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
