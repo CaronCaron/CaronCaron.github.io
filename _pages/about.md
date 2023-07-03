@@ -25,7 +25,7 @@ Also, you can conviniently find information about my research and publications i
 
 |||
 |-------------------------------|-------------------------|
-| <font size=14>Computational Fluid Dynamics</font> | <font size=10>Magnetohydrodynamics</font>    |
+| <font size=2>Computational Fluid Dynamics</font> | <font size=3>Magnetohydrodynamics</font>    |
 | Numerical Simulation          | Ferrofluid Flow         |
 | Lattice Boltzmann Method      | Multiphase Flow         |
 | Direct Numerical Simulation   | Rosensweig Insitibility |
@@ -33,8 +33,8 @@ Also, you can conviniently find information about my research and publications i
 
 <table width="600" border="">
   <tr>
-    <td><font size=6>• Computational Fluid Dynamics</font></td>
-    <td><font size=8>• Magnetohydrodynamics</font></td>
+    <td><font size=4>• Computational Fluid Dynamics</font></td>
+    <td><font size=5>• Magnetohydrodynamics</font></td>
   </tr>
   <tr>
     <td>• Numerical Simulation</td>
