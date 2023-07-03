@@ -30,7 +30,7 @@ Magnetohydrodynamics, Ferrofluid Flow, Multiphase Flow, Rosensweig insitibility,
 <h1 id=educations> 📖 Education</h1>
 ---
 <div><span style="float:right">2021-Now</span>• Master of Engineering, Shantou University</div>
-<div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-Sen University</div><br>
+<div><span style="float:right">2015-2019</span>• Bachelor of Theoretical and Applied Mechanics, Sun Yat-sen University</div><br>
 <h1 id=honors>🎖 Honors & Awards</h1>
 ---
 <div><span style="float:right">Second Prize</span>• China Postgraduate Mathematical Contest in Modeling</div>
