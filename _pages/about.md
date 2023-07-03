@@ -29,7 +29,9 @@ Also, you can conviniently find information about my research and publications i
 |  Direct Numerical Simulation |  Rosensweig Insitibility| 
 |  Parallel Computing          |  Wettability            | 
 <table> 
+  {
   border:0px solid
+  }
   <tr>
     <td>Computational Fluid Dynamics</td>
     <td>Magnetohydrodynamics</td>
