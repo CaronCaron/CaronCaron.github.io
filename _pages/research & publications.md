@@ -17,7 +17,7 @@ The primary aim of this research is to investigate the inner mechanisms responsi
 <!--<font color=#0099ff>color #0099ff</font>-->
 
 **<font color=CadetBlue>  The forthcoming 17th Asian Congress of Fluid Mechanics (ACFM 2023) at Beijing, China (Aug 2023) <br></font>**
-*<font color=CadetBlue>[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow. <br></font>*
+*<font color=CadetBlue>[1] **Zhang Y**, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow. <br></font>*
 
 The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
 *[2] __Zhang Y__, Khan A, Niu X-D. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate, Summary of the 12th National fluid mechanics Academic Conference, 2022:1.<br>*
