@@ -37,7 +37,7 @@ This research delves into the application of magnetic fluid as a lubricant and s
 
 ## Related publications:
 ---
-*__Zhang Y-C__, Li X-F ,Wang Y-P, Wen M-F, Khan A, Niu X-D A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156.<br>*
+*__Zhang Y-C__, Li X-F ,Wang Y-P, Wen M-F, Niu X-D A Brief Review of Magnetic Fluid Lubrication/Seal in Space, Lubrication Engineering, 2023. 48(03):147-156.<br>*
 *DOI:10.3969/j.issn.0254-0150.2023.03.020 <br>*
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
