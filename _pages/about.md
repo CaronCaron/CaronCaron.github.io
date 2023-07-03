@@ -21,14 +21,8 @@ Also, you can conviniently find information about my research and publications i
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
 
 <h1 id=interests>Research Interests</h1>
----
-|                           |                        | 
-|  Computational Fluid Dynamics|  Magnetohydrodynamics   | 
-|  Numerical Simulation        |  Ferrofluid Flow        | 
-|  Lattice Boltzmann Method    |  Multiphase Flow        | 
-|  Direct Numerical Simulation |  Rosensweig Insitibility| 
-|  Parallel Computing          |  Wettability            | 
-<table border-style: hidden >
+--- 
+<table width="1200" cellspacing="1" border="0">
   <tr>
     <td>• Computational Fluid Dynamics</td>
     <td>• Magnetohydrodynamics</td>
