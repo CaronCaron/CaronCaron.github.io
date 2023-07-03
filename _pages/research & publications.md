@@ -11,19 +11,19 @@ Research —— A numerical simulation of Rosensweig Instability with lattice Bo
 Rosensweig instability is a unique interface instability phenomenon that occurs in conservative systems. Specifically, it arises at the interfaces between magnetic fluid and other fluids when subjected to a magnetic field. This instability typically manifests as spikes along the direction of the magnetic field, while other topological shapes such as rupture and soliton also appear with different levels of magnetic field application.
 
 The primary aim of this research is to investigate the inner mechanisms responsible for the emergence and evolution of the Rosensweig instability in multiphase flow systems. Such insights would have significant implications for the development of effective interface control strategies within various applications of magnetic fluid, such as lubrication/sealing, biomedicine, and liquid robots. Moreover, in this research, we have employed the multiphase lattice Boltzmann method to establish a convenient numerical simulation methodology for investigating this phenomenon.
-## Related Publications: 
+## Presentations: 
 ---
 <!--#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--<font color=#0099ff>color #0099ff</font>-->
 
-**<font color=CadetBlue>  PRESENTATION-The forthcoming 17th Asian Congress of Fluid Mechanics (ACFM 2023) at Beijing, China (Aug 2023) <br></font>**
+**<font color=CadetBlue>  The forthcoming 17th Asian Congress of Fluid Mechanics (ACFM 2023) at Beijing, China (Aug 2023) <br></font>**
 *<font color=CadetBlue>[1] __Zhang Y__, Khan A, Niu X. A numerical study of deformation-rupture of ferrofluid layer in a ternary flow. <br></font>*
 
-**PRESENTATION**-The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
-*[[2] __Zhang Y__, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>]*
-*[DOI:10.26914/c.cnkihy.2022.068744 <br>]*
-*[[3] Niu X-D, Khan A, Zhang Y-C. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1. DOI:10.26914/c.cnkihy.2022.068157.<br>]*
-[DOI:2022:1. DOI:10.26914/c.cnkihy.2022.068157<br>]*
+The 12th National Conference on Fluid Mechanics (NCFM 2022) at Xian, China (Nov 2022)<br>
+*[2] __Zhang Y__, Khan A, Niu X. Phase Field Simulation of Magnetically Controlled Deformation Rupture of a Magnetic Fluid Layer on a Liquid Substrate [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1.<br>*
+*DOI:10.26914/c.cnkihy.2022.068744 <br>*
+*[3] Niu X-D, Khan A, __Zhang Y-C__. A simplified phase-field lattice Boltzmann method with a self-corrected magnetic field for the evolution of spike structures in ferrofluids [C] Summary of the 12th National fluid mechanics Academic Conference. 2022:1. DOI:10.26914/c.cnkihy.2022.068157.<br>*
+DOI:2022:1. DOI:10.26914/c.cnkihy.2022.068157<br>*
 
 <!--#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------><br>
   
