@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yongchao Zhang \n (Caron)"
   avatar           : "photo.jpg"
-  bio              : "A Master's student focusing on CFD,LBM and magnetic fluid dynamics"
+  bio              : "A Master's student focusing on CFD and multiphase flow"
   location         : "Guangdong, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "21yczhang@stu.edu.cn"
+  email            : "21yczhang@stu.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
