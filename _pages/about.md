@@ -23,12 +23,13 @@ Also, you can conviniently find information about my research and publications i
 <h1 id=interests>Research Interests</h1>
 --- 
 
-|  Computational Fluid Dynamics | Magnetohydrodynamics    |
+|||
 |-------------------------------|-------------------------|
+|  Computational Fluid Dynamics | Magnetohydrodynamics    |
 | Numerical Simulation          | Ferrofluid Flow         |
 | Lattice Boltzmann Method      | Multiphase Flow         |
 | Direct Numerical Simulation   | Rosensweig Insitibility |
-| Parallel Computing           | Wettability             |
+| Parallel Computing            | Wettability             |
 
 <table width="600" border=" ">
   <tr>
