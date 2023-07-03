@@ -9,7 +9,8 @@ redirect_from:                 # 旧的/已更改的URL，这个页面的链接�
 ---
 <h1>About me</h1>
 ---
-Hey, welcome to my page!  <br>
+<font size=7>Hey, welcome to my page!</font>  <br>
+
 ---
   This is Yongchao Zhang (Caron)\^_^/, a Master's student advised by [Xiaodong Niu(牛小东)](https://scholar.google.com/citations?user=StJCQfAAAAAJ) from [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/). 
 <br>
