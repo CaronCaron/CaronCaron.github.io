@@ -11,15 +11,10 @@ redirect_from:                 # 旧的/已更改的URL，这个页面的链接�
 ---
 <font size=5>Hey, welcome to my page! \^_^/</font> 
 ---
-  This is Yongchao Zhang (Caron). I am a Master's student now in the [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/), advised by  [Xiaodong Niu(牛小东)](https://scholar.google.com/citations?user=StJCQfAAAAAJ).
-<br>
-
-  My research interests lie in Lattice Boltzmann Method and Magnetic Fluid Dynamics. Recently I'm investigating Rosensweig Instability in a ternary flow, where a magnetic fluid layer depicts amazing patterns.
-<br>
-
-On this page, you can find information about my educational background, research interests, recent conference presentations, and honors.
-For more details about my work, please check out the "Research & Publications" tab. 
-Thank you for visiting my page!
+  This is Yongchao Zhang (Caron). I am a Master's student now in the [College of Engineering](http://eng.stu.edu.cn/), [Shantou Univeristy](https://www.stu.edu.cn/), advised by  [Xiaodong Niu(牛小东)](https://scholar.google.com/citations?user=StJCQfAAAAAJ).My research interests lie in Lattice Boltzmann Method and Magnetic Fluid Dynamics. Recently I'm investigating Rosensweig Instability in a ternary flow, where a magnetic fluid layer depicts amazing patterns.
+  
+On this page, you can find information about my educational background, research interests, recent conference presentations, and honors. For more details about my work, please check out the "Research & Publications" tab. 
+Thanks for visiting my page and please feel free to contact with me if necessary!
 
 <!--My CV is available here: [Caron Zhang's Curriculum Viate].-->
 
