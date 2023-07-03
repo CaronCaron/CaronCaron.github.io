@@ -81,7 +81,7 @@ analytics:
 # 5-Site Author              不需要怎么改
 author:
   name             : "Yongchao Zhang \n (Caron)"
-  avatar           : "证件照.jpg"
+  avatar           : "photo.jpg"
   bio              : "A Master's student focusing on CFD,LBM and magnetic fluid dynamics"
   location         : "Guangdong, China"
   employer         : 
